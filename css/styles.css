@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  border: 3px solid grey;
+  border: 3px solid black;
   padding: 10px;
   color: aqua;
   font-size: 50px;
@@ -17,7 +17,8 @@ ol {
 }
 button {
   font-size: 35px;
-  background-color: grey;
+  background-color: white;
   font-style: oblique;
   font-family: fantasy;
+  margin: 0 auto;
 }
