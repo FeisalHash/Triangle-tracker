@@ -12,7 +12,7 @@ p {
 ol {
   font-size: 25px;
   line-height: 50px;
-  color: brown;
+  color: fuchsia;
   float: left;
 }
 button {
@@ -21,4 +21,7 @@ button {
   font-style: oblique;
   font-family: fantasy;
   margin: 0 auto;
+}
+.last {
+  color: green;
 }
