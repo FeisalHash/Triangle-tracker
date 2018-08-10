@@ -1,4 +1,13 @@
 h1 {
   text-align: center;
   color: aqua;
+  font-size: 50px;
+}
+p {
+  font-size: 33px;
+  color: orange;
+}
+ol {
+  font-size: 25px;
+  color: lime;
 }
