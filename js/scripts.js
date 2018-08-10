@@ -15,4 +15,3 @@ else{
 alert("Scalene: No sides are equal.");
 }
 }
-getTypeOfTriangle();

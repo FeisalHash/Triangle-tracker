@@ -15,3 +15,7 @@ ol {
   color: brown;
   float: left;
 }
+button {
+  font-size: 35px;
+  background-color: grey;
+}
